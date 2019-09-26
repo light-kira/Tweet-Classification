@@ -3,6 +3,7 @@ import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 // first commit
+// second commit
 class NaiveBayes{
 
 	public static void main(String[] args) throws IOException {
