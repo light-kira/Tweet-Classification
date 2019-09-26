@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-
+// first commit
 class NaiveBayes{
 
 	public static void main(String[] args) throws IOException {
